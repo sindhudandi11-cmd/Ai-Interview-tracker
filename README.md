@@ -1,4 +1,4 @@
-# 🎯 AI Interview Tracker
+# 🎯 PrepMate AI
 
 An AI-powered full-stack web application that helps users track job applications, save interview questions, take notes, and generate personalized interview questions from job descriptions using advanced AI models.
 
